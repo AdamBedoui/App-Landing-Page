@@ -1,1 +1,1 @@
-Live site is published at https://adambedoui.github.io/App-Squeeze-Page/
+Live site is published at https://adambedoui.github.io/App-Landing-Page/
